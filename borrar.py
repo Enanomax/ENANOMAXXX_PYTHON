@@ -1,1 +1,1 @@
-print('Hola Dios')
+print('Chau Dios')
